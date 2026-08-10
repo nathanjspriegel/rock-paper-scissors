@@ -1,0 +1,54 @@
+body {
+    font-family: "ubuntu";
+    background-color: rgb(228, 205, 177);
+}
+
+
+#results {
+    white-space: pre-line;
+    text-align: center;
+    margin: 50px;
+    font-size: 30px;
+    color: rgb(54, 44, 31);
+}
+
+#score {
+    white-space: pre-line;
+    text-align: center;
+    margin: 50px;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(54, 44, 31);
+}
+
+.title {
+    text-align: center;
+    margin: 0;
+    font-size: 50px;
+    color: rgb(54, 44, 31);
+}
+
+.subtitle {
+    text-align: center;
+    margin: 10px 0px 50px;
+    font-size: 18px;
+    color: rgb(54, 44, 31);
+}
+
+.btn {
+    width: 200px;
+    height: 200px;
+    border: double 4px;
+    border-color: rgb(54, 44, 31);
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
